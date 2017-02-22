@@ -10,9 +10,9 @@ public class  CoverLetter{
     public static void main(String[] args) {
     String recipient = "Company Name";
     String positionName = "Position Name";
-    String myName = "William";
-    String myNumber = "647-467-1234";
-    String myEmail ="williamcodyanderson@gmail.com";
+    String myName = "My Name";
+    String myNumber = "XXX-XXX-XXXX";
+    String myEmail ="myemail@gmail.com";
     String[] Skills = {"Experience in developing with Java", "Experience in the Development and Deployment of Android Applications", "Relational Databases in SQL", "Experience with Java Server Pages", "Experience with client/server application, both client side and back end","An Aptitude for expanding knowledge and learning new skills"};
     
     //some concatenation used for appropiate formatting in my IDE
